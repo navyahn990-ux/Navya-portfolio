@@ -34,7 +34,5 @@ A web-based application that efficiently manages books, student records, and boo
 To secure a challenging position as a Software Developer where I can apply my technical expertise, strengthen my problem-solving skills, and contribute to innovative software solutions while continuously learning and growing professionally.
 📬 Contact
 📧 Email: navyahn990@gmail.com
-💼 LinkedIn: (Add your LinkedIn profile URL)
-💻 GitHub: (Add your GitHub profile URL)
 ⭐ "Passionate about transforming ideas into innovative software solutions through continuous learning and creativity."
 This version looks professional on GitHub and is suitable for sharing with your HOD, faculty, interviewers, and recruiters.
