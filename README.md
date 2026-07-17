@@ -26,7 +26,6 @@ A mental wellness monitoring system designed to help users track emotional well-
 An AI-powered UPI payment assistance system featuring intelligent payment recommendations for a seamless digital payment experience.
 📚 Library Management System
 A web-based application that efficiently manages books, student records, and book issue/return operations.
-🏆 Certifications
 ☁️ Trust and Security with Google Cloud
 🌐 Introduction to Digital Transformation with Google Cloud
 🏅 International Conference Presentation – SabaiPay (2026)
